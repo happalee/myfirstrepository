@@ -1,3 +1,3 @@
 myfirstrepository
 =================
-learning github and this is my first repository!
+Excited to be learning GitHub! This is my first repository!
